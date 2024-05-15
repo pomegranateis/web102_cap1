@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "IPad Pro",
+    "description": "The iPad Pro is a line of iPad tablet computers designed, developed, and marketed by Apple Inc.",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "name": "IPhone 12",
+    "description": "The iPhone 12 is a line of smartphones designed, developed, and marketed by Apple Inc.",
+    "price": 699
+  },
+  {
+    "id": 3,
+    "name": "Airpods",
+    "description": "use me to listen to music",
+    "price": 399
+  }
+]
